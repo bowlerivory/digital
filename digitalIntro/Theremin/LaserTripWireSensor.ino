@@ -11,7 +11,7 @@ void loop() {
    }
   else
   {
-  Serial.println("Alert -- release the drones!");
+  Serial.println("Alert -- release the drones! Alert -- release the drones! This is a code red emergency level 10.");
   
   }
   
