@@ -4,7 +4,7 @@ void setup() {
 
 void loop() {
   int sensorReading = analogRead(A0);
-  itn midPoint = 250;
+  int midPoint = 250;
   if (sensorReading > 250)
   { 
    Serial.println("Everything's chill; Party on!");
